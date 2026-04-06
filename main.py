@@ -1,9 +1,4 @@
 
----
-
-# 🧠 `main.py`
-
-```python
 import numpy as np
 
 # Activation function
